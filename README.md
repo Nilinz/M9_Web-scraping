@@ -31,6 +31,11 @@ uri = mongodb+srv://username:password@cluster.mongodb.net/mydatabase
 
 ```
 
+Для отримання файлів ``qoutes.json`` та ``authors.json`` виконайте:
+```
+py scraping.py
+```
+
 Запустіть ``main.py`` 
 
 ```
